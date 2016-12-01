@@ -1,10 +1,12 @@
 #!/bin/bash
 
 #--------------------------------------------------------#
-# Data: 7 de setembro de 2016
-# Criado por: Juliano Santos [x_SHAMAN_x]
-# Script: ecron.sh
-# Descrição: Permite gerenciar os agendamentos do 'CRON'
+# Data:        7 de setembro de 2016
+# Criado por:  Juliano Santos [SHAMAN]
+# Script:      ecron.sh
+# Descrição:   Permite gerenciar os agendamentos do 'CRON'
+# Página:      http://www.shellscriptx.blogspot.com.br
+# Github:      https://github.com/shellscriptx
 # -------------------------------------------------------#
 
 # Suprime erros
